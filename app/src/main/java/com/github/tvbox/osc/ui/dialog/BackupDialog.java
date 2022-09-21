@@ -34,7 +34,7 @@ import java.util.List;
 
 public class BackupDialog extends BaseDialog {
 
-    public BackupDialog(@NonNull @NotNull Context context) {
+    public BackupDialog(@NonNull @NotNull Context context) { 
         super(context);
         setContentView(R.layout.dialog_backup);
         TvRecyclerView tvRecyclerView = ((TvRecyclerView) findViewById(R.id.list));
