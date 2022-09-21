@@ -48,7 +48,7 @@ public class DefaultConfig {
             }
         }
         if (withMy)
-            data.add(0, new MovieSort.SortData("my0", "主页"));
+            data.add(0, new MovieSort.SortData("my0", "切换站源"));
         Collections.sort(data);
         return data;
     }
