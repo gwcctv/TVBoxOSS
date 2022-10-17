@@ -896,7 +896,7 @@
                         android:textSize="@dimen/ts_30" />
             </LinearLayout>
                 <LinearLayout
-                    android:id="@+id/llAbout"
+                    android:id="@+id/llAbouv"
                     android:layout_width="@dimen/vs_0"
                     android:layout_height="match_parent"
                     android:layout_marginStart="@dimen/vs_5"
