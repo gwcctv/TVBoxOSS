@@ -8,7 +8,7 @@ import com.github.tvbox.osc.R;
 
 import org.jetbrains.annotations.NotNull;
 
-public class AboutDialog extends BaseDialog {
+public class AbouvDialog extends BaseDialog {
 
     public AbouvDialog(@NonNull @NotNull Context context) {
         super(context);
